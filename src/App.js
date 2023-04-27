@@ -17,7 +17,7 @@ import Home from "./pages/Home";
 import { ReactQueryDevtools } from "react-query/devtools";
 import { QueryClientProvider } from "react-query";
 import { queryClient } from "./constants/config";
-import Categories from "./Pages/Categories";
+import Categories from "./pages/Categories";
 
 function App() {
   return (
